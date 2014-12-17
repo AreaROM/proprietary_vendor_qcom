@@ -117,6 +117,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/flo/proprietary/libsensor_reg.so:system/lib/libsensor_reg.so:qcom \
     vendor/qcom/flo/proprietary/libsensor_user_cal.so:system/lib/libsensor_user_cal.so:qcom \
     vendor/qcom/flo/proprietary/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so:qcom \
+    vendor/qcom/flo/proprietary/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so:qcom \
     vendor/qcom/flo/proprietary/libxml.so:system/lib/libxml.so:qcom \
     vendor/qcom/flo/proprietary/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw:qcom \
     vendor/qcom/flo/proprietary/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw:qcom \

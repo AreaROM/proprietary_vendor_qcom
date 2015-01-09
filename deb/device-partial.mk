@@ -81,6 +81,7 @@ PRODUCT_COPY_FILES := \
     vendor/qcom/deb/proprietary/libdss.so:system/lib/libdss.so:qcom \
     vendor/qcom/deb/proprietary/libdsucsd.so:system/lib/libdsucsd.so:qcom \
     vendor/qcom/deb/proprietary/libdsutils.so:system/lib/libdsutils.so:qcom \
+    vendor/qcom/deb/proprietary/libDxHdcp.so:system/lib/libDxHdcp.so:qcom \
     vendor/qcom/deb/proprietary/libgps.utils.so:system/lib/libgps.utils.so:qcom \
     vendor/qcom/deb/proprietary/libgsl.so:system/vendor/lib/libgsl.so:qcom \
     vendor/qcom/deb/proprietary/libI420colorconvert.so:system/lib/libI420colorconvert.so:qcom \
